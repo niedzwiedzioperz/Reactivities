@@ -1,0 +1,6 @@
+bin
+obj
+Course Assets
+.vs
+appsettings.json
+*.db
